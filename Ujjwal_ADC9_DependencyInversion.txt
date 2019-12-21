@@ -1,0 +1,21 @@
+class Fish
+{
+    private Log _log;
+
+    public Post(Log injectedLog)
+    {
+        _log = injectedLog;
+    }
+
+    void CreatePost(Database db, string postMessage)
+    {
+        try
+        {
+            db.Add(postMessage);
+        }
+        catch (Exception ex)
+        {
+            log.log(ex.ToString())
+        }
+    }
+}
