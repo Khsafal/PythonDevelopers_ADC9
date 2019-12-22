@@ -1,0 +1,6 @@
+Git Clone: Git clone is the command whuch ius used to target an existing repository that create clone and copy of target repository.
+Git push: The Git push command is used to upload local repository content to remote repository. The actual meaning of pushing is how you transfer commits from your local repository to remote repo.
+Git Pull: The Git pull is the command which is used to download content from remote repository and immediately update the loca;l repository to match the content.
+merge conflit: Merge conflit is occurs when your given or current branch and the branch you want to merge have diversed.
+Git branch: The Git branch represent the independent way of develpment. Especially branch serve as an absraction for the edit/stage/commit process.
+Git commits: The git commit command captures a snapsort of a project currently stages change. Git will never change them until you expectevely as it to do.
