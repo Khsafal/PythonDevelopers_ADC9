@@ -1,0 +1,2 @@
+git clone
+Utility : To copy a git repository from remote source, also sets the remote to original source so that you can pull again.
